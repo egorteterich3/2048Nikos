@@ -1,9 +1,9 @@
 const cacheName = "Zigurous-2048-1.0";
 const contentToCache = [
     "Build/2048Build.loader.js",
-    "Build/2048Build.framework.js.br",
-    "Build/2048Build.data.br",
-    "Build/2048Build.wasm.br",
+    "Build/2048Build.framework.js.gz",
+    "Build/2048Build.data.gz",
+    "Build/2048Build.wasm.gz",
     "TemplateData/style.css"
 
 ];
